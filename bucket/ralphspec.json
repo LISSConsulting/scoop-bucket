@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/LISSConsulting/RalphSpec/releases/download/v0.1.75/ralph-windows-amd64.exe",
-      "hash": "898b860abe7bf77a27fa4ca1dd27e110931cfc95aae3b8250cebb5ee92ea568e"
+      "hash": "28876c00c5260ed1045ad32711691ed8867ea272797ae53d3ad73f35bf352f0a"
     }
   },
   "bin": [
