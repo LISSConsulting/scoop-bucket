@@ -1,12 +1,12 @@
 {
-  "version": "0.1.85",
+  "version": "0.1.84",
   "description": "Spec-driven AI coding loop CLI - with a supervisor that keeps the King honest",
   "homepage": "https://github.com/LISSConsulting/RalphSpec",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/LISSConsulting/RalphSpec/releases/download/v0.1.85/ralph-windows-amd64.exe",
-      "hash": "3e74d06ec796a333a71821bd7a24606e1842b5f71f0bd807e4498a7abc781bbe"
+      "url": "https://github.com/LISSConsulting/RalphSpec/releases/download/v0.1.84/ralph-windows-amd64.exe",
+      "hash": "72895d2d8ad6bb6f922028852141453dadb757081ed5b6f25179dac6e4f01236"
     }
   },
   "bin": [
